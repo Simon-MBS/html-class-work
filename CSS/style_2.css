@@ -1,0 +1,40 @@
+body{
+    background-image: url(../images/background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#para1{
+    color: blue;
+    background-color: lawngreen;
+    height: 50px;
+}
+
+#para2{
+    color: white;
+    background-color: rgb(15, 15, 14);
+    height: 50px;
+}
+#para3{
+    color: brown;
+    background-color: blueviolet;
+    height: 50px;;
+}
+
+/* class starts with a dot */
+.para4{
+    color: cadetblue;
+    background-color: cyan;
+    height: 50px;
+}
+.div1{
+    color: azure;
+    background-color: cadetblue;
+    height: 50px;
+}
+#div2{
+    color: chartreuse;
+    background-color: coral;
+    height: 50px;
+}

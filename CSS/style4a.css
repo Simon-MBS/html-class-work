@@ -1,0 +1,21 @@
+#k1{
+    color: white;
+    background-color: blue;
+    margin: 0px;
+    border: none 900px;
+    text-align: center;
+    height: 50px;
+    padding: 10px;
+}
+#k2{
+    border: 2px solid black;
+    margin: 20px;
+    text-indent: 5px;    
+}
+.k3{
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    padding: 20px;
+}

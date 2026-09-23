@@ -1,0 +1,35 @@
+#d1{
+   background-color: black; 
+   margin: 0px;
+   border-color: black;
+   padding: 50px;
+
+
+}
+#d2{
+    background-color: white; 
+   margin: 20px;
+   border-color: white;
+
+
+}
+#d3{
+    background-color: red; 
+   margin: 20px;
+   border-color: red;
+   padding: 50px;
+}
+
+#d4{
+    background-color: green; 
+   margin: 20px;
+   border-color: green;
+   padding: 50px;
+}
+.k1{
+display: flex;
+margin: 10px;
+justify-content: center;
+height: 0px;
+    
+}

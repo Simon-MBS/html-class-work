@@ -1,0 +1,13 @@
+
+#hed1{
+    text-align: center;
+    background-color: blue;
+    height: 100px;
+}
+.k1{
+    border-bottom: black 20px;
+    border-top: black 20px;
+    border-left: black 20px;
+    border-right: black 20px;
+    padding: 20px;
+}
